@@ -1,6 +1,9 @@
 # Weather CLI Application
 
 A simple Command Line Interface (CLI) Weather Application built using Python and the OpenWeather API.
+**Company:** CodeTech IT Solutions  
+**Intern Name:** Prince Singh  
+**Internship ID:** CITS5484
 
 ## Features
 
