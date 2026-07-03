@@ -59,4 +59,4 @@ Weather-CLI/
 
 ## Author
 
-**Priyanshu Singh**
+**Prince singh**
